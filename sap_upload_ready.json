@@ -1,0 +1,427 @@
+[
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-101",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-01 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-01",
+                "MATERIAL_GROUP": "Metal",
+                "QUANTITY": 500.0,
+                "TOTAL_AMOUNT": 6000.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-102",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-02 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-02",
+                "MATERIAL_GROUP": "Plastik",
+                "QUANTITY": 200.0,
+                "TOTAL_AMOUNT": 9000.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-103",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-03 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-03",
+                "MATERIAL_GROUP": "Hammadde",
+                "QUANTITY": 1000.0,
+                "TOTAL_AMOUNT": 8000.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-104",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-04 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-01",
+                "MATERIAL_GROUP": "Metal",
+                "QUANTITY": 450.0,
+                "TOTAL_AMOUNT": 5400.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-105",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-05 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-04",
+                "MATERIAL_GROUP": "Elektronik",
+                "QUANTITY": 150.0,
+                "TOTAL_AMOUNT": 18000.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-106",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-06 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-02",
+                "MATERIAL_GROUP": "Plastik",
+                "QUANTITY": 300.0,
+                "TOTAL_AMOUNT": 13500.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-107",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-07 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-03",
+                "MATERIAL_GROUP": "Hammadde",
+                "QUANTITY": 1200.0,
+                "TOTAL_AMOUNT": 9600.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-108",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-08 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-01",
+                "MATERIAL_GROUP": "Metal",
+                "QUANTITY": 600.0,
+                "TOTAL_AMOUNT": 7200.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-109",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-09 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-05",
+                "MATERIAL_GROUP": "Kimyasal",
+                "QUANTITY": 50.0,
+                "TOTAL_AMOUNT": 15000.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-110",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-10 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-04",
+                "MATERIAL_GROUP": "Elektronik",
+                "QUANTITY": 200.0,
+                "TOTAL_AMOUNT": 24000.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-111",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-11 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-02",
+                "MATERIAL_GROUP": "Plastik",
+                "QUANTITY": 250.0,
+                "TOTAL_AMOUNT": 11250.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-112",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-12 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-03",
+                "MATERIAL_GROUP": "Hammadde",
+                "QUANTITY": 900.0,
+                "TOTAL_AMOUNT": 7200.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-113",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-13 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-01",
+                "MATERIAL_GROUP": "Metal",
+                "QUANTITY": 550.0,
+                "TOTAL_AMOUNT": 6600.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-114",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-14 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-05",
+                "MATERIAL_GROUP": "Kimyasal",
+                "QUANTITY": 80.0,
+                "TOTAL_AMOUNT": 24000.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-115",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-15 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-02",
+                "MATERIAL_GROUP": "Plastik",
+                "QUANTITY": 350.0,
+                "TOTAL_AMOUNT": 15750.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-116",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-16 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-03",
+                "MATERIAL_GROUP": "Hammadde",
+                "QUANTITY": 1100.0,
+                "TOTAL_AMOUNT": 8800.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-117",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-17 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-01",
+                "MATERIAL_GROUP": "Metal",
+                "QUANTITY": 480.0,
+                "TOTAL_AMOUNT": 5760.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-118",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-18 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-04",
+                "MATERIAL_GROUP": "Elektronik",
+                "QUANTITY": 180.0,
+                "TOTAL_AMOUNT": 21600.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-119",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-19 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-02",
+                "MATERIAL_GROUP": "Plastik",
+                "QUANTITY": 220.0,
+                "TOTAL_AMOUNT": 9900.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-120",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-20 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-05",
+                "MATERIAL_GROUP": "Kimyasal",
+                "QUANTITY": 60.0,
+                "TOTAL_AMOUNT": 18000.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-121",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-21 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-03",
+                "MATERIAL_GROUP": "Hammadde",
+                "QUANTITY": 1000.0,
+                "TOTAL_AMOUNT": 8000.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-122",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-22 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-01",
+                "MATERIAL_GROUP": "Metal",
+                "QUANTITY": 520.0,
+                "TOTAL_AMOUNT": 6240.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-123",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-23 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-04",
+                "MATERIAL_GROUP": "Elektronik",
+                "QUANTITY": 140.0,
+                "TOTAL_AMOUNT": 16800.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-124",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-24 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-02",
+                "MATERIAL_GROUP": "Plastik",
+                "QUANTITY": 280.0,
+                "TOTAL_AMOUNT": 12600.0
+            }
+        ]
+    },
+    {
+        "HEADER": {
+            "PO_NUMBER": "PO-125",
+            "COMP_CODE": "1000",
+            "DOC_TYPE": "NB",
+            "CREAT_DATE": "2026-03-25 00:00:00"
+        },
+        "ITEMS": [
+            {
+                "PO_ITEM": "00010",
+                "SUPPLIER_ID": "T-05",
+                "MATERIAL_GROUP": "Kimyasal",
+                "QUANTITY": 40.0,
+                "TOTAL_AMOUNT": 12000.0
+            }
+        ]
+    }
+]
